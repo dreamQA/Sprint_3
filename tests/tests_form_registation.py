@@ -39,3 +39,4 @@ def test_registration_incorrect_password_error(driver,generate_random_name, gene
     assert "Некорректный пароль" in error_message_text
 
     driver.quit()
+ #

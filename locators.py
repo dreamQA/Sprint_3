@@ -58,3 +58,4 @@ buns_section = "//*[@id=\"root\"]/div/main/section[1]/div[1]/div[1]"
 sauces_section = "//*[@id=\"root\"]/div/main/section[1]/div[1]/div[2]"
 # Раздел "Начинки" раздела "Контсруктор"
 fillings_section = "//*[@id=\"root\"]/div/main/section[1]/div[1]/div[3]"
+#
