@@ -50,4 +50,3 @@ def test_login_from_button_form_password_recovery_form(driver):
 
     time.sleep(5)
     driver.quit()
-#
