@@ -16,3 +16,4 @@ def test_deauthorize_from_personal_account(driver):
 
     time.sleep(5)
     driver.quit()
+#
